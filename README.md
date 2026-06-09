@@ -14,3 +14,4 @@ A console-based Java application to manage student grades using OOP principles. 
 3. Compile both Java files:
   javac Student.java
   Main.java
+ 
